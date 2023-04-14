@@ -1,6 +1,6 @@
 # Library Management System
 
-This program is a simple Library Management System that allows you to store and issue books to students. The program is written in C and uses structures to store information about books and students.
+This program is a simple Library Management System that allows you to store and issue books to students. The program is written in C and uses data structure (linked lists) to store information about books and students.This was my first project and it uses linked lists
 
 ## Features
 1. Add new books to the system 
